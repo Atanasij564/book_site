@@ -15,9 +15,9 @@
                 `
                 console.log(book)
                 col.classList.add("col")
-                bookWrapper.appendChild("<p>555555</p>");
+                bookWrapper.appendChild(col);
             })
-        }
+        } 
       )
     }
 
