@@ -3,7 +3,7 @@ h1{
 
 }
 body {
-    background-image: url(./images/tile.gif);
+    background-image: url(../Data/tile.png);
     font-family: Garf;
 }
 .comiccorner {
@@ -27,7 +27,7 @@ a:hover {
 }
 @font-face {
     font-family: Garf;
-    src: url(Garfield\ Regular.ttf);
+    src: url(../Data/Garfield\ Regular.ttf);
 }
 .links {
     background-color: white;
